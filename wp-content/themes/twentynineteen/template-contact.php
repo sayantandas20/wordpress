@@ -6,7 +6,7 @@
 get_header();
 ?>
 
-	Template Content
+	Template Content Update Latest
 
 <?php
 get_footer();
